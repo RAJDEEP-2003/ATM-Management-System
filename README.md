@@ -61,15 +61,20 @@ Project Structure
 Admin Functions: Handles system and user account management.
 User Functions: Manages transactions and personal account operations.
 Transaction Logs: Tracks all user activities for audit purposes.
+
 Customization
 
 Feel free to enhance the system by:
 
 Adding additional security layers (e.g., OTP, encryption).
+
 Expanding functionalities like bill payments or multi-currency support.
+
 Improving the user interface for better experience.
+
 Notes
 Ensure the Java Runtime Environment (JRE) is installed to execute the compiled program.
+
 This project is designed for educational purposes and can be modified to suit more advanced requirements.
 License
 This project is open-source and free to use. Contributions are welcome to make it better!
