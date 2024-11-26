@@ -7,12 +7,14 @@ Admin can manage user accounts, create new users, set up the system, and view al
 User can perform actions like withdrawing money, checking balances, depositing funds, and transferring money between accounts.
 This system is designed for educational purposes to demonstrate core banking operations and can be customized for additional features or security measures.
 
-Key Features
+Key Features:
+
 1. Admin Panel
 Create, modify, and delete user accounts.
 View all users and their transaction details.
 Manage ATM settings and ensure proper system setup.
-2. User Panel
+
+3. User Panel
 Withdraw Money: Withdraw funds from your account with real-time balance updates.
 Check Balance: Instantly view your current account balance.
 Deposit Funds: Add money to your account and update your balance.
@@ -37,10 +39,11 @@ Admin Account:
 
 Username: zahid
 Password: 1234
-User Account:
 
+User Account:
 Username: zahid
 Password: 1234
+
 Workflow
 Step 1: Admin Setup
 Log in using the Admin credentials.
