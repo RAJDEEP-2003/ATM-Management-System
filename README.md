@@ -50,15 +50,19 @@ Step 1: Admin Setup
 Log in using the Admin credentials.
 Set up user accounts with initial details (e.g., username, password, account balance).
 Manage ATM cash limits and settings.
+
 Step 2: User Operations
 Log in with a user account to access available features like withdrawal, balance check, and fund transfers.
+
 Step 3: System Testing
 Test different functionalities for both admin and user roles to ensure everything works as expected.
 Project Structure
+
 Admin Functions: Handles system and user account management.
 User Functions: Manages transactions and personal account operations.
 Transaction Logs: Tracks all user activities for audit purposes.
 Customization
+
 Feel free to enhance the system by:
 
 Adding additional security layers (e.g., OTP, encryption).
